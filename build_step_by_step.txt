@@ -1,4 +1,4 @@
-// cai linux// go pass
+// Install linux// go pass
 	sudo visudo and replace %admin ALL=(ALL) ALL by %admin ALL=(ALL) NOPASSWD: ALL
     1  sudo apt-get update
     2  sudo apt-get upgrade
