@@ -109,7 +109,7 @@
 Open link:https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md?fbclid=IwAR2_StjZVP_lZDFi5Zm-RIcnlFPPNH1qE5quOt-0UJrRzSUYGGS8EFneWn8
 		 Choose and download this mode; ssdlite_mobilenet_v2_coco
 
-# Step 11: Setup enviroment
+# Step 11: Environment setup
 	Open new Terminal
 	Command line:
 		- sudo nano ~/.bashrc  (Edit PATH_TO_TF to correct path, ex: /home/ubuntu)
